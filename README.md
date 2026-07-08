@@ -1,32 +1,69 @@
-📸 PhotoHub
+# 📸 PhotoHub
 
 A modern Photography Booking Website built using Django.
 
- Screenshots
+---
 
-🏠 Home
-(image)
+# 📷 Screenshots
 
-🔐 Login
-(image)
+## 🏠 Home Page
 
-📅 Booking
-(image)
+![Home](screenshots/Home.png)
 
-🛠 Technologies
+---
 
-✔ Python
+## 🔐 Login Page
 
-✔ Django
+![Login](screenshots/login.png)
 
-✔ HTML
+---
 
-✔ CSS
+## 📅 Booking Page
 
-✔ Bootstrap
+![Booking](screenshots/booking.png)
 
-✔ SQLite
+---
 
-🚀 Installation
+## 🖼️ Gallery Page
 
-git clone ....
+![Gallery](screenshots/gallery.png)
+
+---
+
+## 📝 Register Page
+
+![Register](screenshots/register.png)
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Django
+- HTML
+- CSS
+- Bootstrap
+- SQLite
+
+---
+
+# 🚀 Installation
+
+```bash
+git clone https://github.com/abhilashs1423/Photohub.git
+cd Photohub
+
+pip install -r requirements.txt
+
+python manage.py migrate
+
+python manage.py runserver
+```
+
+---
+
+# 👨‍💻 Author
+
+**Abhilash G S**
+
+GitHub: https://github.com/abhilashs1423
